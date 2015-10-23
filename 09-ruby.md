@@ -3,8 +3,8 @@
 Exactly as per [GitHub's Ruby style guide][github-ruby], with the following
 exceptions:
 
-* Four spaces, not two, for indentation
-
 * No requirement to use TomDoc for documentation
+
+* Javascript object syntax for hashes is allowed. For example: { key1: :value1, key2: "value 2", key3: 3 }
 
 [github-ruby]: https://github.com/styleguide/ruby
